@@ -10,7 +10,7 @@ multiplicacao = numero1 * numero2
 divisao = numero1 / numero2
 
 puts "Obrigado! Fiz alguns cálculos para você!"
-puts "Somando #{numero1} com #{numero2} temos o número #{soma} como resultado."
-puts "Subtraindo #{numero1} por #{numero2} temos o número #{subtracao} como resultado."
-puts "Multiplicando #{numero1} com #{numero2} temos o número #{multiplicacao} como resultado."
-puts "Dividindo #{numero1} por #{numero2} temos o número #{divisao} como resultado."
+puts "Somando #{numero1} com #{numero2} temos o número #{soma} como resultado"
+puts "Subtraindo #{numero1} por #{numero2} temos o número #{subtracao} como resultado"
+puts "Multiplicando #{numero1} com #{numero2} temos o número #{multiplicacao} como resultado"
+puts "Dividindo #{numero1} por #{numero2} temos o número #{divisao} como resultado"
