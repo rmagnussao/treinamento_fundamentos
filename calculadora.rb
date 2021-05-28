@@ -59,7 +59,7 @@ loop do
             resultado = primeiroNumero / segundoNumero
             puts "O resultado da divisão é #{resultado}"
         else
-            puts 'Insira uma opção válida'
+            puts 'Essa não é uma opção válida. Comece de novo!'
 
         end 
     end
