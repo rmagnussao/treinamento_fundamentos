@@ -18,5 +18,6 @@ potenciacao = numeros.map do |potencia|
     potencia * 2
 end
 
-puts "A seguir os números elevados a segunda potência"
-puts potenciacao
+for potenciacao in potenciacao 
+    puts "Elevando a segunda potência o número digitado, temos como resultado #{potenciacao}"
+end
