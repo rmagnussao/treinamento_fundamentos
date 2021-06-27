@@ -5,13 +5,13 @@
 numeros = []
 
 puts "Digite o primeiro número: "
-primeiroNumero = gets.chomp.to_i
+primeiroNumero = gets.chomp.to_f
 numeros.push(primeiroNumero)
 puts "Digite o segundo número: "
-segundoNumero = gets.chomp.to_i
+segundoNumero = gets.chomp.to_f
 numeros.push(segundoNumero)
 puts "Digite o terceiro número: "
-terceiroNumero = gets.chomp.to_i
+terceiroNumero = gets.chomp.to_f
 numeros.push(terceiroNumero)
 
 potenciacao = numeros.map do |potencia|
