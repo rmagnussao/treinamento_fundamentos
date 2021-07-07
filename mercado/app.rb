@@ -11,3 +11,12 @@
 #
 #4- No arquivo app.rb crie uma instância da classe Produto e adicione valores aos atributos nome e preco. 
 #Depois, inicie uma instância da classe Mercado passando um objeto produto como atributo e para finalizar execute o método comprar.
+
+require_relative 'mercado'
+require_relative 'produto'
+
+product = Product.new
+product.name = "Nuggets"
+product.price = 2.10
+
+Market.new(product.name, product.price).buy
