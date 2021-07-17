@@ -1,0 +1,10 @@
+Bem vindo ao resultado da aplicação!
+Abaixo algumas informações sobre a execução: 
+
+
+Texto inserido para a tradução: A janela da vizinha está torta! Mas é torta ou é reta?
+Idioma do texto: PT
+
+
+Texto após a tradução: The neighbor's window is crooked! But is it crooked or is it straight?
+Idioma escolhido para a tradução: EN
