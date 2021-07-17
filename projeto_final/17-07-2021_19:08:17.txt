@@ -1,0 +1,10 @@
+Bem vindo ao resultado da aplicação!
+Abaixo algumas informações sobre a execução: 
+
+
+Texto inserido para a tradução: Olá! Estou testando a aplicação de tradução feita utilizando a linguagem de programação Ruby pelo curso do site OneBitCode.
+Idioma do texto: PT
+
+
+Texto após a tradução: Helo! I'm testing the translation application made using the Ruby programming language by the course on the OneBitCode website.
+Idioma escolhido para a tradução: EN
