@@ -1,3 +1,3 @@
 # treinamento_fundamentos
-Este repositório serve apenas para fins de estudos.
-O progresso do curso será enviado para cá ao final dos desafios propostos. 
+Este repositório foi criado como base para o estudo da trilha do conhecimento, focada nos fundamentos.
+Além dos estudos de Ruby, também houve um foco em lógica de programação e GIT.
